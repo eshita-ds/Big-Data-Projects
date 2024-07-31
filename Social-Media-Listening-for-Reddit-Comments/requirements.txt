@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+vaderSentiment
+matplotlib
+seaborn
+plotly.express
+wordcloud
+plotly
+nltk
+kafka-python
+praw
